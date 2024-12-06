@@ -1,5 +1,3 @@
--  Hi, I’m @Riteshnayak07
--  I’m interested in frontend languages
--  I’m currently learning html,css,javascript
--  my email id:-nayakritesh2004@gmail.com
--  phno:- +91 7975580600
+-  @Riteshnayak07 here 
+-  Interested in web development 
+-  currently learning nodejs.
